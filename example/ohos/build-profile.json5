@@ -5,13 +5,13 @@
         "name": "default",
         "type": "HarmonyOS",
         "material": {
-          "certpath": "/Users/tian/.ohos/config/default_ohos_f79ogMm1u33lXrT2Ci4lEX9ljXqMz23pd_YFsM3iNTI=.cer",
+          "certpath": "/Users/housemao/.ohos/config/default_ohos_nqAToKei4RqYzVE_W0Qrtmgpl2bZulOSs9f_TUqDO8o=.cer",
           "keyAlias": "debugKey",
-          "keyPassword": "0000001B64E2EA859D3A51ABF39557C5ED0C86F92BB4B3738CC0277E551D0AA096CD5C65738E26506D04E0",
-          "profile": "/Users/tian/.ohos/config/default_ohos_f79ogMm1u33lXrT2Ci4lEX9ljXqMz23pd_YFsM3iNTI=.p7b",
+          "keyPassword": "0000001A4B77D53D296F3BB9B1B0323DA067C537448F4C0FF98F1F45CF0A40261CE374FB194EBA2352AA",
+          "profile": "/Users/housemao/.ohos/config/default_ohos_nqAToKei4RqYzVE_W0Qrtmgpl2bZulOSs9f_TUqDO8o=.p7b",
           "signAlg": "SHA256withECDSA",
-          "storeFile": "/Users/tian/.ohos/config/default_ohos_f79ogMm1u33lXrT2Ci4lEX9ljXqMz23pd_YFsM3iNTI=.p12",
-          "storePassword": "0000001B911D3F782A488150193F572C6B6E4ECE9659A892C7D252CD9BEEF59BCCD2152DB3528E4E2303CD"
+          "storeFile": "/Users/housemao/.ohos/config/default_ohos_nqAToKei4RqYzVE_W0Qrtmgpl2bZulOSs9f_TUqDO8o=.p12",
+          "storePassword": "0000001A7B5498C50B00404E59B919B3BECA1117B54A35C85A82494434539DFD37C42B7FC8D6F6695778"
         }
       }
     ],
@@ -25,8 +25,7 @@
           "strictMode": {
             "useNormalizedOHMUrl": true
           }
-        },
-        "targetSdkVersion": "5.0.0(12)"
+        }
       }
     ]
   },
